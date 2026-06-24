@@ -43,7 +43,7 @@ const posts = [
             • Deployed the project via Vercel
             
             
-        While It's really not a whole lot right for the night, I still thinks it's a huge step in the right direction for someone still new to web development,
+        While It's really not a whole lot for the night, I still thinks it's a huge step in the right direction for someone still new to web development,
         or development in general.
         
         Anyways, if you're reading this then thank  you for checking in on this project! Hopefully I'll have some more meaningful updates coming soon!`
