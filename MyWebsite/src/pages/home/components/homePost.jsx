@@ -11,9 +11,9 @@ export default function Post() {
                     className="post"
                 >
                     <h2>{post.title}</h2>
-                    <hr />
+                    <hr className="post-hr"/>
                     <p>{post.content}</p>
-                    <hr />
+                    <hr className="post-hr"/>
                 </article>
             ))}
         </>

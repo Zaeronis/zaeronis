@@ -24,6 +24,7 @@ const posts = [
     {
         title: 'June 23rd, 2026',
         content: `Just a quick update!
+        
         While it's been over a week since I worked on this website last, I've finally made a bit more progress on it!
         It's still a long ways off from being completed, but this is still a major upgrade!
         
@@ -34,11 +35,13 @@ const posts = [
         Regardless, I'm still super excited since this is my first real website. So, I'm hoping that enthusiasm will carry me through to the finish line,
         but I guess we'll just have to see!
         
+        
         Here's a list of the updates so far:
         
             • Separated the post content and component
             • Uploaded the project to GitHub
             • Deployed the project via Vercel
+            
             
         While It's really not a whole lot right for the night, I still thinks it's a huge step in the right direction for someone still new to web development,
         or development in general.
