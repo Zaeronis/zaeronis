@@ -1,0 +1,26 @@
+
+
+#joke-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+}
+
+#joke-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    animation: pulseColorsBorders 20s infinite alternate;
+    border-radius: 200px;
+    padding: 30px 60px;
+
+}
+
+#joke {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    animation: pulseColorsText 20s infinite alternate;
+}
