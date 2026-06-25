@@ -1,23 +1,33 @@
-import './styles/header.css'
+import '../styles/header.css'
 import NeonSearchIcon from "./searchIcon.jsx";
 
-export default function Header() {
+export default function Header({ setCurrentPage }) {
     return (
         <div id="header">
             <div id="headerLeft">
-                <button>
+                <button
+                    onClick={() => setCurrentPage('experience')}
+                >
                     Experience
                 </button>
-                <button>
+                <button
+                    onClick={() => setCurrentPage('education')}
+                >
                     Education
                 </button>
-                <button>
+                <button
+                    onClick={() => setCurrentPage('projects')}
+                >
                     Projects
                 </button>
-                <button>
+                <button
+                    onClick={() => setCurrentPage('about')}
+                >
                     About
                 </button>
-                <button>
+                <button
+                    onClick={() => setCurrentPage('home')}
+                >
                     Home
                 </button>
             </div>
@@ -32,7 +42,9 @@ export default function Header() {
                 </button>
             </div>
             <div id="headerRight">
-                <button>
+                <button
+                    onClick={() => setCurrentPage('contact')}
+                >
                     Contact
                 </button>
             </div>
