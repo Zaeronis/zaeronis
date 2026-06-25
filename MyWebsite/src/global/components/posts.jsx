@@ -12,7 +12,7 @@ export default function Post({data, topHR=true, bottomHR=true}) {
                     <h2>{post.title}</h2>
                     {topHR && <hr className="post-hr"/>}
                     <p>{post.content}</p>
-                    {bottomHR && <hr className="post-hr"/>}
+                    {bottomHR && <hr className="post-hr"/>}Z.png
                 </article>
             ))}
         </>

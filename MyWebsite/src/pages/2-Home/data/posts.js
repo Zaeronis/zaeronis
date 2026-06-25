@@ -5,7 +5,7 @@ const posts = [
             
             While I've worked on a few varying designs and attempts, stumbling my way into Vite & React. This will be my first complete website when I finish it.
             
-            As of typing this, I've been working on it for only a matter of hours, though I've made more progress than I expected. That being said, I hope to be able to say that I've completed this project in only a matter of days. I began on this iteration just this morning, around 7am. It's not 9:06pm and while I said I was to take a break for the night, I couldn't help but come back to it.
+            As of typing this, I've been working on it for only a matter of hours, though I've made more progress than I expected. That being said, I hope to be able to say that I've completed this project in only a matter of days. I began on this iteration just this morning around 7am. It's now 9:06pm, and while I said I was to take a break for the night, I couldn't help but come back to it.
             
             Hopefully I get more done tonight, but for now, here's a list of things I've already accomplished:
             
