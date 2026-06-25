@@ -49,6 +49,26 @@ const posts = [
         Anyways, if you're reading this then thank  you for checking in on this project! Hopefully I'll have some more meaningful updates coming soon!`
 
     },
+    {
+        title: "June 25th, 2026",
+        content: `@10:25am
+So I woke up at about 4-4:30am today. 
+I couldn't really go back to sleep, and had a hankering to do some actual work. So here I am,nearly 5-6 hours later, I'm still awake 
+and still working on the this. I'm hoping to have, at minimum, a set base for the site so far. All that I'd need after that would be 
+to add some style to it. 
+
+So far, as of typing this, I've already completed a good chunk:
+
+• Implemented the logic for the navigation bar
+• Set up placeholders for each page for navigation
+• Updated the post logic to be more dynamic
+• Implemented the Post component into the About page
+• Implemented logic to auto-calculate my age into the About page
+• Finished the content for the About page
+• Updated the favicon for the site
+
+I'll be sure to add more updates as I go along.`
+    }
 ]
 
 export default posts
