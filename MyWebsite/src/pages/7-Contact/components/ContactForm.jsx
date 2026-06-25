@@ -27,6 +27,11 @@ export default function ContactForm() {
             }, (error) => {
                 console.error('Error sending email:', error);
             })
+
+        contact.current.name.value = '';
+        contact.current.subject.value = '';
+        contact.current.message.value = '';
+        contact.current.email.value = '';
     }
 
     return (
@@ -68,7 +73,7 @@ export default function ContactForm() {
                 required
             />
             <button
-                onClick="submit"
+                type="submit"
                 id="sendButton"
             >
                 Send
