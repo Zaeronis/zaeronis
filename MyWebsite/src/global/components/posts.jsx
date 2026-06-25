@@ -1,19 +1,18 @@
 import '../styles/posts.css'
-import posts from '../data/posts.js'
 
-export default function Post() {
+export default function Post({data, topHR=true, bottomHR=true}) {
     return (
         <>
-            {posts.map((post, index) => (
+            {data.map((post, index) => (
                 <article
                     key={index}
                     id={`post-${index + 1}`}
                     className="post"
                 >
                     <h2>{post.title}</h2>
-                    <hr className="post-hr"/>
+                    {topHR && <hr className="post-hr"/>}
                     <p>{post.content}</p>
-                    <hr className="post-hr"/>
+                    {bottomHR && <hr className="post-hr"/>}
                 </article>
             ))}
         </>
