@@ -1,5 +1,5 @@
 import './styles/home.css'
-import Post from "./components/homePost.jsx";
+import Post from "./components/posts.jsx";
 
 export default function Home() {
     return (
