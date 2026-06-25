@@ -71,6 +71,7 @@ I'll be sure to add more updates as I go along.
 
 @2:08pm
 I'm still working on the website, though I've taken a small lunch break. Right now, the new additions are as follows:
+
 • Set up the contact page
 • Set up the email account for the contact form
 • Implemented the logic for the contact emails
