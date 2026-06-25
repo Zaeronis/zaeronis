@@ -67,7 +67,18 @@ So far, as of typing this, I've already completed a good chunk:
 • Finished the content for the About page
 • Updated the favicon for the site
 
-I'll be sure to add more updates as I go along.`
+I'll be sure to add more updates as I go along.
+
+@2:08pm
+I'm still working on the website, though I've taken a small lunch break. Right now, the new additions are as follows:
+• Set up the contact page
+• Set up the email account for the contact form
+• Implemented the logic for the contact emails
+• (Not Directly Related) Styled the email recieved from the contact form
+• Minor updates on the About page
+
+While I feel like I've made some great progress so far, I plan to still keep working on the website today.
+Stay tuned for more updates!`
     }
 ]
 
