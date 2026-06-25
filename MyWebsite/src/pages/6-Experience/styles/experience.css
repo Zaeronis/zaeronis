@@ -1,0 +1,15 @@
+.experience-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.experience-title {
+    color: white;
+    font-family: Neonderthaw;
+    font-size: 80px;
+    text-decoration: underline;
+    animation: pulseColorsText 20s infinite alternate;
+    margin: 60px 0 20px 0;
+}
