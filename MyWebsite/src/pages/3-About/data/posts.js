@@ -26,7 +26,7 @@ const posts = [
     },
     {
         title: 'Campus & Community',
-        content: `As a Student Ambassador at Maestro, I really enjoy connecting with my peers and staying involved in the campus community. It’s a great environment for sharing ideas and collaborating. I’ve always found that the best part of tech is the social side—breaking down complex problems and figuring out solutions alongside other people who are just as curious as I am.`
+        content: `As a Student Ambassador at Maestro, I really enjoy connecting with my peers and staying involved in the community. It’s a great environment for sharing ideas and collaborating. I’ve always found that the best part of tech is the social side—breaking down complex problems and figuring out solutions alongside other people who are just as curious as I am.`
     },
     {
         title: 'Looking Ahead',
