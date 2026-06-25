@@ -27,6 +27,11 @@ export default function ContactForm() {
             }, (error) => {
                 console.error('Error sending email:', error);
             })
+
+        contact.current.name.value = '';
+        contact.current.subject.value = '';
+        contact.current.message.value = '';
+        contact.current.email.value = '';
     }
 
     return (
