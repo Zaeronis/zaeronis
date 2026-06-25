@@ -53,7 +53,7 @@ const posts = [
         title: "June 25th, 2026",
         content: `@10:25am
 So I woke up at about 4-4:30am today. 
-I couldn't really go back to sleep, and had a hankering to do some actual work. So here I am,nearly 5-6 hours later, I'm still awake 
+I couldn't really go back to sleep, and had a hankering to do some actual work. So here I am, nearly 5-6 hours later, I'm still awake 
 and still working on the this. I'm hoping to have, at minimum, a set base for the site so far. All that I'd need after that would be 
 to add some style to it. 
 
